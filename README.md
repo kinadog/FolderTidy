@@ -1,9 +1,5 @@
 # FolderTidy
 
-<p align="center">
-  <img src="FolderTidy/Assets/foldertidy-icon-512.png" alt="FolderTidy icon" width="128" height="128">
-</p>
-
 [![Stars](https://img.shields.io/github/stars/kinadog/FolderTidy?style=flat-square&logo=github)](https://github.com/kinadog/FolderTidy/stargazers)
 [![Forks](https://img.shields.io/github/forks/kinadog/FolderTidy?style=flat-square&logo=github)](https://github.com/kinadog/FolderTidy/network/members)
 [![Release downloads](https://img.shields.io/github/downloads/kinadog/FolderTidy/total?style=flat-square&logo=github)](https://github.com/kinadog/FolderTidy/releases)
