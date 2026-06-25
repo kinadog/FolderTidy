@@ -1,5 +1,11 @@
 # FolderTidy
 
+[![Stars](https://img.shields.io/github/stars/kinadog/FolderTidy?style=flat-square&logo=github)](https://github.com/kinadog/FolderTidy/stargazers)
+[![Forks](https://img.shields.io/github/forks/kinadog/FolderTidy?style=flat-square&logo=github)](https://github.com/kinadog/FolderTidy/network/members)
+[![Release downloads](https://img.shields.io/github/downloads/kinadog/FolderTidy/total?style=flat-square&logo=github)](https://github.com/kinadog/FolderTidy/releases)
+[![License](https://img.shields.io/github/license/kinadog/FolderTidy?style=flat-square)](LICENSE)
+[![Last commit](https://img.shields.io/github/last-commit/kinadog/FolderTidy?style=flat-square&logo=github)](https://github.com/kinadog/FolderTidy/commits/main)
+
 Windows용 폴더 정리 도구입니다. 다운로드 폴더처럼 파일이 한곳에 쌓인 디렉터리를 **종류별로 묶어 보고**, **삭제**와 **백업(이동)** 으로 정리하는 흐름에 맞춰 만들었습니다.
 
 > **Platform:** Windows only (WPF)  
