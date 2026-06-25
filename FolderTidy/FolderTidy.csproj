@@ -16,6 +16,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Resource Include="Assets\FolderTidy.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Docnet.Core" Version="2.6.0" />
     <PackageReference Include="SharpCompress" Version="0.49.1" />
   </ItemGroup>

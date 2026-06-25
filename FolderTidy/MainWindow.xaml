@@ -6,7 +6,7 @@
         xmlns:viewModels="clr-namespace:FolderTidy.ViewModels"
         mc:Ignorable="d"
         Title="FolderTidy - 폴더 정리"
-        Icon="Assets/FolderTidy.ico"
+        Icon="/Assets/FolderTidy.ico"
         Height="860"
         Width="1280"
         MinHeight="640"
