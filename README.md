@@ -87,11 +87,6 @@ artifacts/portable/FolderTidy.exe
 - **Self-contained** — .NET 10 런타임 포함 (약 65MB)
 - PDF 미리보기(Docnet) 등 **네이티브 라이브러리**는 실행 시 임시 폴더에 풀립니다. 파일 하나로 배포하지만, 내부적으로는 첫 실행 때 `%TEMP%` 등에 추출됩니다.
 
-GitHub Release에 올릴 때는 위 exe를 zip으로 압축해 첨부하면 README의 **Release downloads** 배지에 다운로드 수가 집계됩니다.
-
-```powershell
-Compress-Archive -Path artifacts\portable\FolderTidy.exe -DestinationPath artifacts\FolderTidy-v1.0.0-win-x64-portable.zip -Force
-```
 
 ## 프로젝트 구조
 
